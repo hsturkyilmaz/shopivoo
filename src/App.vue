@@ -1,17 +1,15 @@
 <template>
   <div id="app">
-    <StorePage msg="Welcome to Your Vue.js App" />
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import StorePage from './components/StorePage.vue'
+
 
 export default {
   name: 'App',
-  components: {
-    StorePage
-  }
+
 }
 </script>
 
