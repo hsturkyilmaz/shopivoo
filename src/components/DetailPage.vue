@@ -36,7 +36,7 @@
     <div class="bg-white p-4 rounded-t-3xl flex flex-col gap-5">
       <div class="flex flex-col gap-2">
         <div class="flex justify-between items-center">
-          <p class="text-xl font-bold">Nike Runnerdick</p>
+          <p class="text-xl font-bold">Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops</p>
           <button type="button"
             class="text-yankees-blue bg-white border hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 rounded-xl text-base font-medium px-4 py-2.5 focus:outline-none">Try
             virtual</button>

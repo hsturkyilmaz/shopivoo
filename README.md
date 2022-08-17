@@ -1,4 +1,15 @@
-# shopivoo
+
+# Shopivoo
+
+A case study.
+
+
+## Live Demo
+
+https://shopivoo.vercel.app/
+
+
+## Installation
 
 ## Project setup
 ```
@@ -19,6 +30,23 @@ yarn build
 ```
 yarn lint
 ```
+## Tech Stack
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Vue, Vuex, Vuex-Persist, Axios, Vue-Router, TailwindCSS, PostCSS
+## Features
+
+- Three pages
+- Responsive layout
+- Using mock API
+- Delivering online (Vercel)
+
+
+## API Reference
+
+[![Fake Store ](https://fakestoreapi.com/icons/logo.png)](https://fakestoreapi.com/)
+
+
+#### Get all items
+
+```http
+  https://fakestoreapi.com/products
