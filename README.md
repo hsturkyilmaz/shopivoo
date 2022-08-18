@@ -1,7 +1,7 @@
 
 # Shopivoo
 
-A case study.
+An online shopping platform using Vue.js.
 
 
 ## Live Demo
